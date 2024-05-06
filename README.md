@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @KheavKienghok, your intrepid scholar delving into the world of coding!
-- 👀 I’m passionate about expanding my horizons and mastering new skills, especially in the realm of programming.
-- 🌱 I’m currently immersing myself in the fundamentals of Python, harnessing its power to craft digital solutions.
-- 💞️ I’m eager to collaborate on GitHub, where innovative minds converge to build the technologies of tomorrow.
-- 📫 Reach me on Telegram: @anshishui - Let's connect and code our way to success!
-- 😄 Pronouns: he/him - A determined student ready to conquer coding challenges!
-- ⚡ Fun fact: Ever wondered why Python uses indentation to define blocks of code instead of traditional curly braces or keywords? It's because Guido van Rossum, Python's creator, wanted to enforce code readability. He once joked that he chose indentation because "he hated braces"!
-<!---
-KheavKienghok/KheavKienghok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Waving Anime Character](waving.gif)
+# Hello, I'm Kienghok! 👋
+
+Welcome to my GitHub profile! Here's an animated waving anime character:
+
+I'm a sophomore at American University of Phnom Penh, passionate about IT and eager to learn and grow in the world of technology and research.
+
+🌱 Currently learning: Python
+
+🔭 I’m interested in: Exploring new technologies, conducting research, and contributing to open-source projects.
+
+👯 I’m looking to collaborate on: Any projects related to IT where I can contribute and learn.
+
+📚 I'm working towards: Improving my skills in Python, and gaining more experience through hands-on projects.
+
+## Skills
+
+- Programming Languages: Python
+- Tools & Technologies: Visual Code
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/kienghok-kheav-1896b5289/
+- Email: 2023500Kheav@aupp.edu.kh
+
+Let's connect and explore new opportunities together! 😊
