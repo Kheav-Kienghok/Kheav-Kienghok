@@ -1,4 +1,4 @@
-![Waving Anime Character](waving.gif)
+![alternative text](Waving.gif)   
 # Hello, I'm Kienghok! 👋
 
 Welcome to my GitHub profile! Here's an animated waving anime character:
