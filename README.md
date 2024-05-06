@@ -1,7 +1,7 @@
 ![alternative text](Waving.gif)   
 # Hello, I'm Kienghok! 👋
 
-Welcome to my GitHub profile! Here's an animated waving anime character:
+Welcome to my GitHub profile! 
 
 I'm a sophomore at American University of Phnom Penh, passionate about IT and eager to learn and grow in the world of technology and research.
 
@@ -16,7 +16,7 @@ I'm a sophomore at American University of Phnom Penh, passionate about IT and ea
 ## Skills
 
 - Programming Languages: Python
-- Tools & Technologies: Visual Code
+- Tools & Technologies: Visual Studio Code
 
 ## Connect with Me
 
