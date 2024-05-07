@@ -21,6 +21,6 @@ I'm a sophomore at American University of Phnom Penh, passionate about IT and ea
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/kienghok-kheav-1896b5289/
-- Email: 2023500Kheav@aupp.edu.kh
+- Email: khievkeanghok@gmail.com
 
 Let's connect and explore new opportunities together! 😊
