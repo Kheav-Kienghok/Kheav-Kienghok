@@ -1,9 +1,9 @@
 ![alternative text](Waving.gif)   
-# Hello, I'm Kienghok! 👋
+# Hi there, I'm Kienghok! 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 
-I'm a sophomore at American University of Phnom Penh, passionate about IT and eager to learn and grow in the world of technology and research.
+I'm a sophomore at the American University of Phnom Penh, passionate about IT and eager to learn and grow in the world of technology and research.
 
 🌱 Currently learning: Python
 
@@ -16,11 +16,21 @@ I'm a sophomore at American University of Phnom Penh, passionate about IT and ea
 ## Skills
 
 - Programming Languages: Python
-- Tools & Technologies: Visual Studio Code
+- Tools & Technologies: Visual Studio Code, Git
+
+## Featured Project
+
+🚀 **Project Name:** Bank-System-Project
+
+🌟 **Description:** This project is a simple bank system allowing users to log in, register, deposit, and withdraw money. It's built using Python, SQLite for database management, and Tkinter for the graphical user interface.
+
+🔧 **Technologies:** Python, SQLite, Tkinter
+
+🔗 **GitHub Repo:** [Bank-System-Project](https://github.com/KheavKienghok/Bank-System-Project)
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/kienghok-kheav-1896b5289/
-- Email: khievkeanghok@gmail.com
+- **LinkedIn:** [My LinkedIn Account](https://www.linkedin.com/in/kienghok-kheav-1896b5289/)
+- **Email:** [My Personal Gmail](khievkeanghok@gmail.com)
 
 Let's connect and explore new opportunities together! 😊
