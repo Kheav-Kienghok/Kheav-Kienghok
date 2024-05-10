@@ -20,13 +20,13 @@ I'm a sophomore at the American University of Phnom Penh, passionate about IT an
 
 ## Featured Project
 
-🚀 **Project Name:** Bank-System-Project
+🚀 **Project Name:** Bank-System-Application
 
 🌟 **Description:** This project is a simple bank system allowing users to log in, register, deposit, and withdraw money. It's built using Python, SQLite for database management, and Tkinter for the graphical user interface.
 
 🔧 **Technologies:** Python, SQLite, Tkinter
 
-🔗 **GitHub Repo:** [Bank-System-Project](https://github.com/KheavKienghok/Bank-System-Project)
+🔗 **GitHub Repo:** [Bank-System-Application](https://github.com/KheavKienghok/Bank-System-Application)
 
 ## Connect with Me
 
