@@ -29,25 +29,15 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white&color=blue" alt="GitHub" />
 </p>
 
-## 🌟 Featured Project
-
-🚀 **Project Name**: Bank-System-Application
-
-🌟 **Description**: A simple bank system allowing users to log in, register, deposit, and withdraw money. Built using Python, SQLite, and Tkinter for the graphical user interface.
-
-🔧 **Technologies**: Python, SQLite, Tkinter
-
-🔗 **GitHub Repo**: [Bank-System-Application](https://github.com/KheavKienghok/Bank-System-Application)
-
 ## 🌐 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/kienghok-kheav-1896b5289/">
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:khievkeanghok@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-Let's connect and explore new opportunities together! 😊
+<p style="font-family: 'Courier New', Courier, monospace; font-size: 20px; color: #4CAF50; font-weight: bold;">Let's connect and explore new opportunities together! 😊</p>
