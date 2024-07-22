@@ -1,9 +1,8 @@
-![Waving](Waving.gif)
-
-# Hi there, I'm Kienghok! 👋
-
-Welcome to my GitHub profile!
-
+<h1>
+    <img src="Waving.gif" alt="Waving" style="width:50px;height:50px;">
+    Welcome to my GitHub profile!
+</h1>
+ 
 I'm a sophomore at the American University of Phnom Penh, passionate about IT and eager to learn and grow in the world of technology and research.
 
 ## About Me
@@ -17,13 +16,18 @@ I'm a sophomore at the American University of Phnom Penh, passionate about IT an
 
 ### Programming Languages:
 <p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&color=blue" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&color=blue" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white&color=blue" alt="Flask" />
 </p>
 
 ### Tools & Technologies:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=GIT&logoColor=white&color=blue" alt="Git" />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white&color=blue" alt="GitHub" />
+</p>
 
 ## Featured Project
 
