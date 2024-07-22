@@ -40,4 +40,4 @@
   </a>
 </p>
 
-<p style="font-family: 'Courier New', Courier, monospace; font-size: 20px; color: #4CAF50; font-weight: bold;">Let's connect and explore new opportunities together! 😊</p>
+**Let's connect and explore new opportunities together!** 🚀✨😊
