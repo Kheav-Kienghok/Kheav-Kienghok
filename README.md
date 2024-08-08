@@ -1,5 +1,5 @@
 <h1>
-    <img src="Waving.gif" alt="Waving" style="width:80px;height:80px;">
+    <img src="image/Waving.gif" alt="Waving" style="width:80px;height:80px;">
     Welcome to my GitHub profile!
 </h1>
 
