@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&color=blue" alt="CSS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white&color=blue" alt="Flask" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&color=blue" alt="Java" />
 </p>
 
 ### 🛠️ Tools & Technologies
