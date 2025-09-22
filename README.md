@@ -9,94 +9,107 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-🔹 **Passionate Tech Explorer** | **Aspiring Full-Stack Dev** | **Cloud Enthusiast**  
 
-🎯 **What I’m Up To:**  
-- 📌 **Currently Leveling Up In:** `Python 🐍 | Node.js 🚀 | Microservices ⚡`  
-- 🧠 **Obsessed With:** Full-Stack Dev, Cloud Computing, DevOps, Automation, and Open-Source 💡  
-- 🤝 **Always Open To:** Collaborating on exciting open-source projects & cutting-edge web apps 💻  
+### Turning Ideas Into Code | Junior Developer on a Mission
 
-🔥 **Current Mission:**  
-- 🏗 **Master Backend Development** (APIs, Databases, Scaling Services)  
-- ☁️ **Cloud-Native Mastery** (AWS, Docker, Kubernetes)  
-- 🛠 **Sharpening Problem-Solving Skills** through real-world projects  
+Hi, I’m **Kienghok** — a backend developer in training with a passion for building **robust, scalable systems**.  
+I thrive on **designing APIs**, **scaling microservices**, and **digging deep into system architecture**. My toolkit includes **Python, Node.js, and Golang**, while I explore **Vue.js** on the frontend and rely on **PostgreSQL** for databases.  
+
+Every project is a **level-up opportunity**: solving real-world problems, writing clean code, and creating systems that actually matter.  
 
 ---
 
-## 🛠️ **Tech Stack & Skills**
+### Current Focus
+- Learning, experimenting, and shipping **full-stack projects**
 
-### 💻 **Frontend Development:**
+### Next Goals
+- Mastering **backend architecture**, **cloud-native systems**, and **scalable databases**
+
+### Forever
+- Collaborating, contributing, and **tackling challenges that push my limits**
+
+---
+
+## **Tech Stack & Skills**
+
+### Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=light" />
 </p>
 
-### ⚙️ **Backend Development:**
+### Frontend Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-%23009999.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind&theme=light" />
 </p>
 
-### 🗄️ **Databases:**
+### Backend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,go,java,python&theme=light" />
 </p>
 
-### 🖥️ **Programming Languages:**
+### Backend Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,express&theme=light" />
 </p>
 
-### ☁️ **DevOps & Cloud:**
+### Databases
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light" />
+  </a>
 </p>
 
-### 🛠️ **Tools & Version Control:**
+### DevOps & Cloud
+
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=docker,aws&theme=light" />
+  </a>
+</p>
+
+### Tools
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=light" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kheav-Kienghok&count_private=true&show_icons=true&theme=radical" width="390">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kheav-Kienghok&count_private=true&show_icons=true&theme=blue" width="390">
 
   <!-- Most Used Languages (Excluding Jupyter Notebook & Procfile) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kheav-Kienghok&layout=compact&hide=jupyter%20notebook,procfile&theme=radical" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kheav-Kienghok&layout=compact&hide=jupyter%20notebook,procfile&theme=blue" width="300">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheav-Kienghok&theme=radical" width="700">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheav-Kienghok&theme=blue" width="700">
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kienghok-kheav-1896b5289/">
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/kienghok-kheav/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
-  <a href="mailto:khievkeanghok@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+
+  <a href="mailto:kheavkienghok@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
   </a>
 </p>
 
