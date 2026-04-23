@@ -26,9 +26,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats-v5-0.onrender.com/api?username=Kheav-Kienghok&count_private=true&show_icons=true&theme=tokyonight" width="390" />
-  
-  <img src="https://github-readme-stats-v5-0.onrender.com/api/top-langs/?username=Kheav-Kienghok&layout=compact&hide=html,jupyter%20notebook,procfile,blade,css&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kheav-Kienghok&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="390" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kheav-Kienghok&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=Jupyter%20Notebook" width="300" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheav-Kienghok&theme=tokyonight" width="700" />
 
